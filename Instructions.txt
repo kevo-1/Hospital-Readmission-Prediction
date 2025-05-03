@@ -1,0 +1,7 @@
+pip install notebook
+pip install -U scikit-learn
+pip install numpy
+pip install pandas
+pip install pyqt5
+pip install pillow (incase image processing is needed)
+pip install 
